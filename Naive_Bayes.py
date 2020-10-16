@@ -1,4 +1,4 @@
-Naive_Bayes
+#Naive_Bayes处理enron数据集进行垃圾邮件识别
 import numpy as np
 
 import os
